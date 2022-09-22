@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **My recent bootcamp experience**
 
-- 📫 How to reach me **robert.low91@gmail.com**
+- 📫 How to reach me **rlow.developer@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
