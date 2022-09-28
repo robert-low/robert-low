@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-low&label=Profile%20views&color=0e75b6&style=flat" alt="robert-low" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=robert-low" alt="robert-low" /></a> </p>
-
  🔭 I’m currently working on: [Stumbl](https://www.stumblon.com/)
 
  💬 Ask me about: **My recent bootcamp experience**
