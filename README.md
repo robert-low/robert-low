@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Fullstack developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=robert-low&label=Profile%20views&color=0e75b6&style=flat" alt="robert-low" /> </p>
-
  🔭 I’m currently working on: [Stumbl](https://www.stumblon.com/)
 
  💬 Ask me about: **My recent bootcamp experience**
