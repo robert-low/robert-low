@@ -3,7 +3,7 @@
 
  🔭 I’m currently working on: [Backend fluency](https://github.com/robert-low/ruby-coding-challenges) (that's testing, problem solving, refactoring, and going again)
 
- 💬 Ask me about: **My recent bootcamp experience, and my current role as Teaching Assistant of Fullstack Web Development.**
+ 💬 Ask me about: **My recent bootcamp experience, and my current role as Teaching Assistant of Fullstack Web Development**
 
  📫 How to reach me: **robert.low91@gmail.com**
 
