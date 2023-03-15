@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Fullstack developer.</h3>
 
- 🔭 I’m currently working on: [Stumbl](https://www.stumblon.com/)
+ 🔭 I’m currently working on: [Backend fluency through testing, problem solving, refactoring, and going again.](https://github.com/robert-low/ruby-coding-challenges)
 
- 💬 Ask me about: **My recent bootcamp experience**
+ 💬 Ask me about: **My recent bootcamp experience, and **
 
  📫 How to reach me: **robert.low91@gmail.com**
 
