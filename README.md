@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Fullstack developer.</h3>
 
- 🔭 I’m currently working on: [Backend fluency](https://github.com/robert-low/ruby-coding-challenges) (that's testing, problem solving, refactoring, and going again)
+ 🔭 I’m currently working on: 
+ 
+ - [Ruby fluency](https://github.com/robert-low/ruby-coding-challenges) (that's testing, problem solving, refactoring, and going again)
+ - [React](https://github.com/robert-low/learning-react)
 
  💬 Ask me about: **My recent bootcamp experience, and my current role as Teaching Assistant of Fullstack Web Development**
 
