@@ -3,8 +3,8 @@
 
  🔭 I’m currently working on: 
  
- - [Ruby fluency](https://github.com/robert-low/ruby-coding-challenges) (that's testing, problem solving, refactoring, and going again)
- - [React](https://github.com/robert-low/learning-react)
+ - [Ruby and Ruby on Rails fluency](https://github.com/robert-low/ruby-coding-challenges) (that's testing, problem solving, refactoring, and going again)
+ - Shoring up my [JavaScript ES6](https://github.com/robert-low/complete-javascript-course), followed by [React](https://github.com/robert-low/learning-react)
 
  💬 Ask me about: **My recent bootcamp experience, and my current role as Teaching Assistant of Fullstack Web Development**
 
