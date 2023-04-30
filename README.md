@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
-<h3 align="center">Fullstack developer.</h3>
+<h3 align="center">Fullstack Developer (and sometimes Web Development Teaching Assistant)</h3>
+
+🌱 I’m currently learning: **Java ☕️ and Python** 🐍
 
  🔭 I’m currently working on: 
  
  - [Ruby and Ruby on Rails fluency](https://github.com/robert-low/ruby-coding-challenges) (that's testing, problem solving, refactoring, and going again)
  - Shoring up my [JavaScript ES6](https://github.com/robert-low/complete-javascript-course), followed by [React](https://github.com/robert-low/learning-react)
 
- 💬 Ask me about: **My recent bootcamp experience, and my current role as Teaching Assistant of Fullstack Web Development**
+ 💬 Ask me about: **My career switch from mental health improvement to my current experience as a Software Engineer Pioneer**
 
  📫 How to reach me: **robert.low91@gmail.com**
 
