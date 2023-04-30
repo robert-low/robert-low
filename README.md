@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/105922565/235369250-d0df852f-059a-476e-96c0-9651ce04fa5a.png)
 
 </p>
-<h1 align="center">Hi 👋, I'm Rob</h1>
+<h1 align="center">Hi 👋🏻, I'm Rob</h1>
 <h3 align="center">Full Stack Developer
  <br>
  (...and sometimes Web Development Teaching Assistant)</h3>
