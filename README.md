@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Fullstack Developer</h3>
-<h3 align="center">(and sometimes Web Development Teaching Assistant)</h3>
+<h4 align="center">(...and sometimes Web Development Teaching Assistant)</h4>
 
 🌱 I’m currently learning: **Java ☕️ and Python** 🐍
 
