@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://data.whicdn.com/images/301510724/original.gif">
+  
 </p>
 
 <h1 align="center">Hi 👋, I'm Rob</h1>
