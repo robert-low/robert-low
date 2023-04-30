@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://data.whicdn.com/images/301510724/original.gif" width="350">
+</p>
+
 <h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Full Stack Developer
  <br>
