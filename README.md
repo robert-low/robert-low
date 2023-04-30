@@ -4,12 +4,12 @@
 
 🌱 I’m currently learning: **Java ☕️ and Python** 🐍
 
- 🔭 I’m currently working on: 
+ 🔭 I’m also currently working on: 
  
  - [Ruby and Ruby on Rails fluency](https://github.com/robert-low/ruby-coding-challenges) (that's testing, problem solving, refactoring, and going again)
  - Shoring up my [JavaScript ES6](https://github.com/robert-low/complete-javascript-course), followed by [React](https://github.com/robert-low/learning-react)
 
- 💬 Ask me about: **My career switch from mental health improvement to my current experience as a Software Engineer Pioneer**
+ 💬 Ask me about: **My career switch from mental health care improvement into tech**
 
  📫 How to reach me: **robert.low91@gmail.com**
 
