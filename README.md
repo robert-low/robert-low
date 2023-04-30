@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Rob</h2>
+<h1 align="center">Hi 👋, I'm Rob</h1>
 <h3 align="center">Fullstack Developer
  <br>
  (...and sometimes Web Development Teaching Assistant)</h3>
