@@ -25,7 +25,7 @@
 
 <h3 align="center"> 💬  Ask me about  </h3>
  <p align="center">
-  <samp>My career switch from mental health care improvement into tech</samp>
+  <samp>My career switch from mental health care improvement into tech<br> 🏥 👉🏻 👨🏼‍💻</samp>
 </p>
 
 <hr>
