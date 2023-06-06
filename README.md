@@ -8,7 +8,7 @@
 
 <h3 align="center"> 🌱  I’m currently learning  </h3>
  <p align="center">
-  <samp>Java ☕️ and Python 🐍</samp>
+  <samp>Java ☕️</samp>
 </p>
 
 <hr>
