@@ -2,9 +2,8 @@
 
 </p>
 <h1 align="center">Hi 👋🏻, I'm Rob</h1>
-<h3 align="center">Full Stack Developer
+<h3 align="center">Technical Support Specialist
  <br>
- (...and sometimes Web Development Teaching Assistant)</h3>
 
 <h3 align="center"> 🌱  I’m currently learning  </h3>
  <p align="center">
